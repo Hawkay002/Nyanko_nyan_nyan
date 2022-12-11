@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['918777845713'] //ur owner number
+global.ownername = "Satoru Gojo・ショヴィス・滅 𓆩✧𓆪" //ur owner name
+global.ytname = "YT:none" //ur yt chanel name
+global.socialm = "GitHub: Hawkay002" //ur github or insta name
+global.location = "India, West Bengal, Hooghly" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.owner = ['918777845713'] //ur number
+global.ownernomer = "918777845713" //ur number
+global.ownertag = '918777845713' //ur tag number
+global.premium = ['918777845713'] //ur premium number
+global.botname = 'Nyanko_nyan_nyan'//ur bot name
+global.ownername = "Satoru Gojo・ショヴィス・滅 𓆩✧𓆪"
+global.linkz = "none" //your theme url which will be displayed on whatsapp
+global.websitex = "https://linktr.ee/Shovith_Debnath" //ur website to be displayed
+global.botscript = 'https://github.com/Hawkay002/Nyanko_nyan_nyan' //script link
+global.themeemoji = "🐱" //ur theme emoji
+global.packname = "Sticker By nyanko🐱" //ur sticker watermark packname
+global.author = "Nyanko🐱" //ur sticker watermark author
+global.wm = "Satoru Gojo・ショヴィス・滅 𓆩✧𓆪" //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
-global.sp = ''
+global.prefa = ['.']
+global.sp = '.'
 global.mess = {
     success: 'Done✓',
     admin: 'This feature could be used by admins only!',
