@@ -2,7 +2,7 @@
 
 <h1 align="center">Neko˓˓ก₍⸍⸌̣ʷ̣̫⸍̣⸌₎ค˒˒<br></h1>
 <p align="center">
-<img src="https://github.com/Hawkay002/Nyanko_nyan_nyan/blob/master/anime-loli.mp4" width="540" height="280" />
+<img src="https://user-images.githubusercontent.com/119169431/206894672-bb587769-161a-4458-ab76-6455fe0cc204.gif" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -114,3 +114,4 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+![anime-loli](https://user-images.githubusercontent.com/119169431/206894672-bb587769-161a-4458-ab76-6455fe0cc204.gif)
