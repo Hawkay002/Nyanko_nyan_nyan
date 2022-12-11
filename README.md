@@ -2,7 +2,7 @@
 
 <h1 align="center">Neko˓˓ก₍⸍⸌̣ʷ̣̫⸍̣⸌₎ค˒˒<br></h1>
 <p align="center">
-<img src="" width="540" height="280" />
+<img src="https://user-images.githubusercontent.com/119169431/206893960-b1317b14-4ca5-418a-8167-ef1d477bd0b9.mp4" width="540" height="280" />
 </p>
 
 <p align="center">
