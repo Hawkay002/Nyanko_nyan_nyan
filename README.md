@@ -6,22 +6,20 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Nyanko_nyan_nyan is a automated whatsapp bot created by <a href="https://github.com/Hawkay002" target="_blank">Hawkay002</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
-<p align="center">
-<a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
+
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD5?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD5?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD5?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD5"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Hawkay002/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hawkay002?color=red&style=flat-square"></a>
+<a href="https://github.com/Hawkay002/Nyanko_nyan_nyan/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hawkay002/Nyanko_nyan_nyan?color=blue&style=flat-square"></a>
+<a href="https://github.com/Hawkay002/Nyanko_nyan_nyan/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hawkay002/Nyanko_nyan_nyan?color=red&style=flat-square"></a>
+<a href="https://github.com/Hawkay002/Nyanko_nyan_nyan/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hawkay002/Nyanko_nyan_nyan?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Hawkay002/Nyanko_nyan_nyan"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD5/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD5?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD5&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
@@ -33,7 +31,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/918777845713"><img src="https://img.shields.io/badge/Contact Hawkay002-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
